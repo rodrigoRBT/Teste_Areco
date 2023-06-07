@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/04 18:21:20.000.390,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:07:01.000.125,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:08:24.000.037,D:\Teste Areco\pProdutos.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:08:24.000.037,D:\Teste Areco\pProdutos.dfm=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/06/04 21:09:58.000.885,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:12:09.000.180,D:\Teste Areco\framework\TEntidade.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:15:41.000.138,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\ConnectionModule.pas</Transaction>
+    <Transaction>2023/06/04 21:17:54.000.703,D:\Teste Areco\framework\dmDataBase.dfm=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\ConnectionModule.dfm</Transaction>
+    <Transaction>2023/06/04 21:17:54.000.703,D:\Teste Areco\framework\dmDataBase.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\ConnectionModule.pas</Transaction>
+    <Transaction>2023/06/04 21:34:14.000.450,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:35:05.000.271,D:\Teste Areco\framework\bProdutos.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/04 21:42:06.000.412,D:\Teste Areco\ListaProdutos.dproj=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/06/05 10:44:54.000.100,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 10:57:26.000.830,D:\Teste Areco\Unit1.dfm=D:\Teste Areco\pCadastraProduto.dfm</Transaction>
+    <Transaction>2023/06/05 10:57:26.000.830,D:\Teste Areco\Unit1.pas=D:\Teste Areco\pCadastraProduto.pas</Transaction>
+    <Transaction>2023/06/05 10:59:04.000.680,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 11:02:57.000.447,D:\Teste Areco\Unit1.dfm=D:\Teste Areco\pEditaProduto.dfm</Transaction>
+    <Transaction>2023/06/05 11:02:57.000.447,D:\Teste Areco\Unit1.pas=D:\Teste Areco\pEditaProduto.pas</Transaction>
+    <Transaction>2023/06/05 11:27:19.000.107,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 11:28:56.000.291,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 11:30:26.000.982,D:\Teste Areco\Unit1.pas=D:\Teste Areco\pCadastrarProduto.pas</Transaction>
+    <Transaction>2023/06/05 11:30:26.000.982,D:\Teste Areco\Unit1.dfm=D:\Teste Areco\pCadastrarProduto.dfm</Transaction>
+    <Transaction>2023/06/05 12:12:59.000.939,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 12:14:18.000.745,D:\Teste Areco\Unit1.pas=D:\Teste Areco\bOperaProduto.pas</Transaction>
+    <Transaction>2023/06/05 14:31:46.000.460,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 14:32:01.000.281,D:\Teste Areco\Unit1.pas=D:\Teste Areco\bBaseProjeto.pas</Transaction>
+    <Transaction>2023/06/05 16:00:39.000.209,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 16:02:51.000.793,D:\Teste Areco\Unit1.pas=D:\Teste Areco\pDadosDB.pas</Transaction>
+    <Transaction>2023/06/05 16:02:51.000.793,D:\Teste Areco\Unit1.dfm=D:\Teste Areco\pDadosDB.dfm</Transaction>
+    <Transaction>2023/06/06 15:31:32.000.909,=D:\Teste Areco\Unit1.pas</Transaction>
+    <Transaction>2023/06/06 15:50:59.000.656,D:\Teste Areco\Unit1.pas=D:\Teste Areco\bCRUD.pas</Transaction>
+    <Transaction>2023/06/06 17:49:44.000.539,D:\Teste Areco\pDadosDB.pas=</Transaction>
+    <Transaction>2023/06/06 18:18:22.000.261,D:\Teste Areco\framework\dmDataBase.pas=</Transaction>
+    <Transaction>2023/06/06 18:18:43.000.887,=D:\Teste Areco\ConnectionModule.pas</Transaction>
+  </Transactions>
+</BorlandProject>
