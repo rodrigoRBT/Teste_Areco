@@ -1,0 +1,14 @@
+unit TEntidade;
+
+Interface
+
+Uses RTTI;
+
+type
+  TEntidadeGenerica = class(TObject)
+  end;
+
+implementation
+
+
+end.

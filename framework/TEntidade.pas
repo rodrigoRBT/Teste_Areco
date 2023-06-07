@@ -1,0 +1,25 @@
+unit TEntidade;
+
+Interface
+
+Uses Aurelius.Mapping.Attributes;
+
+type
+    [Entity,Automapping]
+    TProduto = Class
+  private
+    FId: Integer;
+    Fvalor: Double;
+    Fqtde: Integer;
+    Fnome: string;
+  public
+    property Id : Integer read FId write FId;
+    property nome : string read Fnome write Fnome;
+    property qtde : Integer read Fqtde write Fqtde;
+    property valor : Double read Fvalor write Fvalor;
+  End;
+
+implementation
+
+
+end.
